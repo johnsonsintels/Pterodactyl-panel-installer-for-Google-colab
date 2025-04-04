@@ -3,3 +3,5 @@ This script uses google colab and ngrok tunneling to install pterodactyl panel a
 
 remember you have to make 2 different cells 
 to run this code on Colab one for the main panel and wings installer and a separate cell to start Wings you can also run your own command in colab for auto deployment
+
+**REMEMBER THIS SCRIPT FAILS TO START WINGS DUE TO GOOGLE COLAB LIMITATIONS ON DOCKER**
